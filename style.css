@@ -1,0 +1,39 @@
+body
+  { background-image: url("/home/ahmad/Downloads/teps.png") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: justify;
+    border-image-width: ;
+  }
+.mydiv
+  {
+    border: 20px inset whitesmoke;
+    text-align: center;
+    border-radius: 25px;
+    padding: 200px;
+    width: 400px;
+    height: 500px;
+    background-position:left;
+
+  }
+p{
+    color: black;
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bolder;
+    font-variant-caps: all-petite-caps;
+    font-stretch: expanded;
+       
+}
+marquee{
+          color: yellow;
+          background-color: black;
+          font-size: large;
+          border: red;
+          
+}
+
+
+
+  
